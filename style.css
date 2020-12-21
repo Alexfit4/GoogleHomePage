@@ -1,0 +1,27 @@
+#myImage {
+	height: 180;
+	width: 300px;
+}
+
+#imageContainer {
+	margin-top: 150px;
+	text-align: center;
+}
+
+#exampleDataList {
+	margin-left: 280px;
+	width: 550px;
+}
+
+#btn {
+	padding-top: 20px;
+}
+
+
+#rightSide {
+  margin-right: 100px;
+}
+
+#navbarRight {
+  margin-right: 50px;
+}
